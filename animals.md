@@ -9,7 +9,11 @@ These are the best!
 
 ## Best bears
 
-- Koala
 - Polar
+- Grizzly
+
+## Other amazing animals
+
 - Panda
+- Koala
 - Sloth
