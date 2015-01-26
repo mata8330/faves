@@ -4,8 +4,8 @@ These are the best!
 
 ## Best pets
 
-1. Cats
-2. Dogs
+1. Cats :cat:
+2. Dogs :dog:
 
 ## Best bears
 
@@ -14,6 +14,6 @@ These are the best!
 
 ## Other amazing animals
 
-- Panda
-- Koala
+- Panda :panda:
+- Koala :koala:
 - Sloth
