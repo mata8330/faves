@@ -6,3 +6,10 @@ These are the best!
 
 1. Cats
 2. Dogs
+
+## Best bears
+
+- Koala
+- Polar
+- Panda
+- Sloth
